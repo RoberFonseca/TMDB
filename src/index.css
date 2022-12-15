@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.noDecoration{
+  text-align: center;
+  text-decoration: none;
+  color: rgb(236, 22, 22);
+}
+
+.noDecoration:hover{
+  color: rgb(221, 96, 92);
+}
+
+.divCenter{
+  justify-content: center;
+  display: flex;
+}
